@@ -6,7 +6,7 @@ This is a initial phase, first version of CRO-GS, a chemical reaction optimizati
 Related Publication:
   Simultaneous Gene Selection and Cancer Classification using Chemical Reaction Optimization
   Jitesh Doshi, Mahesh Chindhe, Yogesh Kharche, Shameek Ghosh, Jayaraman Valadi Proceedings of the World Congress on
-  Engineering 2014 (PDF: http://www.iaeng.org/publication/WCE2014/WCE2014_pp219-223.pdf)
+  Engineering 2014 ([PDF](http://www.iaeng.org/publication/WCE2014/WCE2014_pp219-223.pdf))
 
 Requirements: Java Runtime Environment (1.6 or higher)
               gnuplot (for visualizing graph)
@@ -22,4 +22,4 @@ Usage:
   1. Use executable .jar file (double click or use on commandline "java -jar CROGenSel.jar")
   2. Import the sources into Java project and run cro/MainGUI.java (Will require weka and libsvm libraries to be added)
 
-  duke.libsvm is an example file of breast cancer dataset from http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html
+  duke.libsvm is an example file of breast cancer dataset from [libsvm dataset library](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html)
