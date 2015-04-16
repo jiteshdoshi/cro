@@ -57,8 +57,9 @@ public class MainGUI {
 	
 		//frame
 		frame=new JFrame("CRO based Gene Selection");
-		frame.setSize(700, 500);
+		frame.setSize(720, 520);
 		frame.setLocation(350, 100);
+		frame.setResizable(true);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
