@@ -22,4 +22,4 @@ Usage:
   1. Use executable .jar file (double click or use on commandline "java -jar CROGenSel.jar")
   2. Import the sources into Java project and run cro/MainGUI.java (Will require weka and libsvm libraries to be added)
 
-  duke.libsvm is an example file of breast cancer dataset from [libsvm dataset library](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html)
+  [duke.libsvm](./duke.libsvm) is an example file of breast cancer dataset from [libsvm dataset library](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html)
